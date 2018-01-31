@@ -1,0 +1,56 @@
+#header1{
+	margin-top: 0px;
+	padding-top: 0px;
+	font-size: 350%;
+	text-align: center;
+	font-family: "Courier";
+	font-weight: bold;
+	color: white;
+	position: fixed;
+	background-color: black;
+	display: block;
+	width: 100%;
+
+}
+
+.body1{
+	margin-top: 0px;
+	padding-top: 0px;
+	background-color: #e6e6e6;
+}
+#image{
+	background-color: #666699;
+	text-align: center;
+	border: #8080ff solid 2px;
+}
+#low{
+	font-size: 200%;
+	text-align: right;
+	margin-top: 60px;
+}
+#start1{
+	margin: 0 auto;
+	padding: 40px;
+	font-size: 1.3em;
+}
+#para{
+	margin: 0 auto;
+	padding: 20px 40px 20px 40px;
+	font-size: 1.2em;
+}
+#tm{
+	border: 1px solid gray;
+	margin: 0px auto;
+	padding: 20px;
+	line-height: 1.5em;
+	font-size: 1.1em;
+}
+#foot{
+	padding-top: 30px;
+	text-align: center;
+	font-size: 1.5em;
+}
+footer.a:hover{
+	text-decoration: underline;
+	background-color: red;
+}
